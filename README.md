@@ -1,1 +1,0 @@
-# SolidCAD_FrontEnd
